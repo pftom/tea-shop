@@ -1,0 +1,27 @@
+name: 使用 Taro 实现一个微信点餐小程序
+description: ''
+topics:
+  - React
+  - Redux
+  - Taro
+  - CSS
+  - Modules
+  - ''
+categories:
+  - React
+  - ''
+id: 019cac4cd8af4a92bfab78d6690c271f
+created: 2019-12-15T10:40:25.201Z
+updated: 2019-12-15T10:40:25.201Z
+steps:
+  - name: 在我们阅读教程之前
+    commit: be5ddbc
+    diff:
+      - file: .editorconfig
+        display: true
+      - file: .eslintrc
+        display: true
+      - file: .gitignore
+      - file: yarn.lock
+        display: true
+github: 'https://github.com/pftom/tea-shop'
